@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>DAcodex</title>
   </head>
   <body>
     <h1>DAcodex</h1>
