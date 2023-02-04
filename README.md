@@ -6,7 +6,7 @@
   <body>
     <h1>DAcodex</h1>
     <p>DAcodex is a tool to generate and execute code for data analysis using natural language queries. The code generation is powered by OpenAI's <a href=https://platform.openai.com/docs/guides/code>Codex model series</a>.</p>
-    
+ 
  <h2>Requirements</h2>
 <ul>
   <li>Python 3</li>
@@ -39,5 +39,7 @@
   <li><code>save_code_to_file</code>: saves the generated code to a python file.</li>
 </ul>
 <p>The app has been built using streamlit.</p>
+
+<img src="Demo.jpg" alt="Demo App">
   </body>
 </html>
